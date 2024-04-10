@@ -12,5 +12,6 @@ public class fir {
                 System.out.println("进行分支测试2");
                 System.out.println("进行github的推送");
                 System.out.println("进行github的推送测试");
+                 System.out.print("终于完成了");
         }
 }
